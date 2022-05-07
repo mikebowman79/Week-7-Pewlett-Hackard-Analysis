@@ -4,8 +4,8 @@
 
 ## Overview of Project
 
-The purpose of this project is to determine the number of retiring employees per employment title and to identify employees
-who would be eligible to participate in a mentorship program. It is important for the company to have the proper resources
+The purpose of this project is to determine the number of retiring employees by employment title and to identify employees
+who will be eligible to participate in a mentorship program. It is important for the company to have the proper resources
 and training available to handle the transformation of employment talent as the current group of senior employees reach retirement age. 
 
 ### Analysis and Challenges
@@ -18,7 +18,7 @@ who were born January 1952 and December 1955. This is displayed by the following
 ![image](https://user-images.githubusercontent.com/101996041/167227658-ed87160e-116a-49e8-b09a-4c8cc05f41f4.png)
 
 
-2. Unique Titles: The Unique Titles table includes the employees shown above less those who have left the company and hold their most recent title: (41381 employees)
+2. Unique Titles: The Unique Titles table includes the employees shown above by their most recent job title less those who have left the company. (41381 employees)
 
 ![image](https://user-images.githubusercontent.com/101996041/167227689-34706bd0-f59b-4f4c-82b6-f257c505e1e0.png)
 
@@ -28,11 +28,11 @@ who were born January 1952 and December 1955. This is displayed by the following
 ![image](https://user-images.githubusercontent.com/101996041/167227712-3c3844fe-ebd0-46ef-91ec-ad2e9f3970fe.png)
 
 
-4. Count of those likely to retire: Displays those job titles of the number most likely to retire.
+4. Count of those likely to retire: Displays those job titles of the number most likely to retire from the Retiring Titles chart above.
 
 ![image](https://user-images.githubusercontent.com/101996041/167227725-71550c5e-9d2c-4425-854b-484b9c98bfaf.png)
 
-As is seen the greatest quantity of jobs that need to be filled are tose of Senior Engineer and Senior Staff. This would imply that a major effort
+As is seen the greatest quantity of jobs that need to be filled are those of Senior Engineer and Senior Staff. This would imply that a major effort
 needs to be made to train and mentor those junior employees selected to fill those roles. Additional hiring will be needed to fill some of those
 jobs as Senior Engineer and Staff people retire. 
 
